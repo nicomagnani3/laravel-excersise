@@ -21,7 +21,7 @@ Define a correct structure to import the `CSV` and manage the database efficient
 2. **Data import:**
 Create a script to import `csv/superheros.csv` in the models database tables. No MySQL have to be provided, the script need to allow us to import the data correctly.
 
-3. **API to retrieve data**
+3. **API to retrieve data:**
 Generate a API endpoint to retrieve superheroes. The endpoint need to be able to filter by GET params (three properties at least), order and paginate the results.
 
 ## Setup and Config
