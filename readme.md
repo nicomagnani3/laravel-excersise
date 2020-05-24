@@ -36,7 +36,7 @@ Generate a API endpoint to retrieve superheroes. The endpoint need to be able to
 
 1. Clone the repo:
 `git clone git@bitbucket.org:consultr/laravel.git`
-2. Once that you cloned the repository, you will need to create a MySQL database
+2. Once you cloned the repository, you will need to create a MySQL database
 3. Setup the `exercise/.env` file
 4. Execute the command: `sh scripts/install.sh`
 5. You are ready to start coding.
