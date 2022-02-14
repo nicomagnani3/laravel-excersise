@@ -11,7 +11,7 @@ el superheros.csv
 
 4 correr el comando sh scripts/install.sh
 
-5 levantar el proyecto local  php artisan serve
+5 Ubicarse en la carpeta exercise y levantar el proyecto local  php artisan serve
  y realiar distintas pruebas
 
 http://127.0.0.1:8000/api/superheros/publisher?publisher=Marvel Comics&eyeColor=Blue&hairColor=red //busqueda por publicacion, color de ojos
